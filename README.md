@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **java, spring boot, sql, dart-flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/udhin98](https://github.com/udhin98](https://github.com/udhin98](https://github.com/udhin98)
+- 👨‍💻 All of my projects are available at [https://github.com/udhin98](https://github.com/udhin98)
 
 - 📫 How to reach me **udhin1998@gmail.com**
 
